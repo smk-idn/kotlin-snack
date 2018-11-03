@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">kotlin-snack</string>
+    <string name="app_name">Kotlin Snack</string>
+    <string name="nama_pembeli">Nama Pembeli :</string>
+    <string name="masukkan_nama_anda">Masukkan Nama Anda</string>
+    <string name="pilih_jajanan">Pilih jajanan :</string>
+    <string name="jumlah_pesanan">Jumlah Pesanan :</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="pesan">Pesan</string>
+
+    <!-- Jenis-jenis jajanan -->
+    <string name="cireng_isi">Cireng isi</string>
+    <string name="bakso_goreng">Bakso Goreng</string>
+    <string name="roti_bakar">Roti Bakar</string>
+    <string name="seblak">Seblak</string>
+    <string name="min_order">Pemesanan minimal 1 jajanan</string>
+    <string name="max_order">Tidak bisa memesan lebih dari 100 jajanan</string>
+    <string name="snacks_not_empty">Jajanan tidak boleh kosong</string>
+    <string name="customer_not_empty">Nama pemesan tidak boleh kosong</string>
+
 </resources>
